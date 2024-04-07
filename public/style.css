@@ -106,6 +106,7 @@ body {
   align-items: center;
   justify-content: center;
   bottom: 0px;
+  width: 95%;
 }
 
 #content {
